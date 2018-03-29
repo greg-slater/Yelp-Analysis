@@ -8,8 +8,8 @@ import requests
 #%%
 # DEFINITIONS
 
-API_KEY = '4CcXCPd-Q1z4RMqADk8ifmMIMTR9ukjFEC6-w7285loug2D5dqvACQsmGhnfZ-78Q9FTtA9BcjMTLLpQ0AtsEKfZAOfbP1roO8zFWPz0wi6Gy782YSA0wysvBFWZWnYx'
-Client_ID = '2-BhbsJAMA8_i8GgGZ97OQ'
+API_KEY = 'insert_key_here'
+Client_ID = 'insert_id_here'
 
 API_HOST = 'https://api.yelp.com'
 SEARCH_PATH = '/v3/businesses/search'
