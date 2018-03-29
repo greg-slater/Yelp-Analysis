@@ -1,0 +1,7421 @@
+{
+  "music_venues": [
+    {
+      "name": "Roundhouse",
+      "coordinates": {
+        "latitude": 51.543409,
+        "longitude": -0.150961
+      },
+      "id": "roundhouse-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0930",
+          "end": "1700"
+        },
+        {
+          "day": 1,
+          "start": "0930",
+          "end": "2100"
+        },
+        {
+          "day": 2,
+          "start": "0930",
+          "end": "2100"
+        },
+        {
+          "day": 3,
+          "start": "0930",
+          "end": "2100"
+        },
+        {
+          "day": 4,
+          "start": "0930",
+          "end": "2100"
+        },
+        {
+          "day": 5,
+          "start": "0930",
+          "end": "1700"
+        },
+        {
+          "day": 6,
+          "start": "0930",
+          "end": "1700"
+        }
+      ]
+    },
+    {
+      "name": "Royal Albert Hall",
+      "coordinates": {
+        "latitude": 51.5009964375442,
+        "longitude": -0.177414610229825
+      },
+      "id": "royal-albert-hall-kensington",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0900",
+          "end": "2100"
+        },
+        {
+          "day": 1,
+          "start": "0900",
+          "end": "2100"
+        },
+        {
+          "day": 2,
+          "start": "0900",
+          "end": "2100"
+        },
+        {
+          "day": 3,
+          "start": "0900",
+          "end": "2100"
+        },
+        {
+          "day": 4,
+          "start": "0900",
+          "end": "2100"
+        },
+        {
+          "day": 5,
+          "start": "0900",
+          "end": "2100"
+        },
+        {
+          "day": 6,
+          "start": "0900",
+          "end": "2100"
+        }
+      ]
+    },
+    {
+      "name": "Shakespeare's Globe Theatre",
+      "coordinates": {
+        "latitude": 51.5081126650366,
+        "longitude": -0.0971089400017153
+      },
+      "id": "shakespeares-globe-theatre-bankside",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0900",
+          "end": "1700"
+        },
+        {
+          "day": 1,
+          "start": "0900",
+          "end": "1700"
+        },
+        {
+          "day": 2,
+          "start": "0900",
+          "end": "1700"
+        },
+        {
+          "day": 3,
+          "start": "0900",
+          "end": "1700"
+        },
+        {
+          "day": 4,
+          "start": "0900",
+          "end": "1700"
+        },
+        {
+          "day": 5,
+          "start": "0900",
+          "end": "1700"
+        },
+        {
+          "day": 6,
+          "start": "0900",
+          "end": "1700"
+        }
+      ]
+    },
+    {
+      "name": "Union Chapel",
+      "coordinates": {
+        "latitude": 51.54437,
+        "longitude": -0.102769
+      },
+      "id": "union-chapel-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0930",
+          "end": "1800"
+        },
+        {
+          "day": 1,
+          "start": "0930",
+          "end": "1800"
+        },
+        {
+          "day": 2,
+          "start": "0930",
+          "end": "1800"
+        },
+        {
+          "day": 3,
+          "start": "0930",
+          "end": "1800"
+        },
+        {
+          "day": 4,
+          "start": "0930",
+          "end": "1800"
+        }
+      ]
+    },
+    {
+      "name": "KOKO",
+      "coordinates": {
+        "latitude": 51.5346440882812,
+        "longitude": -0.138359069824219
+      },
+      "id": "koko-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1900",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1900",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1900",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1900",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "2200",
+          "end": "0400"
+        },
+        {
+          "day": 5,
+          "start": "2200",
+          "end": "0400"
+        },
+        {
+          "day": 6,
+          "start": "1900",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "Fabric",
+      "coordinates": {
+        "latitude": 51.5196084163624,
+        "longitude": -0.102471799978848
+      },
+      "id": "fabric-london-2",
+      "hours": [
+        {
+          "day": 4,
+          "start": "1000",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "1100",
+          "end": "0300"
+        },
+        {
+          "day": 6,
+          "start": "1100",
+          "end": "0300"
+        }
+      ]
+    },
+    {
+      "name": "St Martin in the Fields",
+      "coordinates": {
+        "latitude": 51.508793,
+        "longitude": -0.126756
+      },
+      "id": "st-martin-in-the-fields-london-4",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0800",
+          "end": "2000"
+        },
+        {
+          "day": 1,
+          "start": "0800",
+          "end": "2000"
+        },
+        {
+          "day": 2,
+          "start": "0800",
+          "end": "2230"
+        },
+        {
+          "day": 3,
+          "start": "0800",
+          "end": "2100"
+        },
+        {
+          "day": 4,
+          "start": "0800",
+          "end": "2100"
+        },
+        {
+          "day": 5,
+          "start": "0800",
+          "end": "2100"
+        },
+        {
+          "day": 6,
+          "start": "1100",
+          "end": "1800"
+        }
+      ]
+    },
+    {
+      "name": "The Troubadour",
+      "coordinates": {
+        "latitude": 51.488822437999,
+        "longitude": -0.19190476580433
+      },
+      "id": "the-troubadour-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0830",
+          "end": "1400"
+        },
+        {
+          "day": 1,
+          "start": "0830",
+          "end": "1400"
+        },
+        {
+          "day": 2,
+          "start": "0830",
+          "end": "1400"
+        },
+        {
+          "day": 3,
+          "start": "0830",
+          "end": "1400"
+        },
+        {
+          "day": 4,
+          "start": "0830",
+          "end": "1400"
+        },
+        {
+          "day": 5,
+          "start": "0830",
+          "end": "1400"
+        },
+        {
+          "day": 6,
+          "start": "0830",
+          "end": "1400"
+        }
+      ]
+    },
+    {
+      "name": "Alexandra Palace",
+      "coordinates": {
+        "latitude": 51.5939065176711,
+        "longitude": -0.130093499999995
+      },
+      "id": "alexandra-palace-london-3",
+      "hours": [
+        {
+          "day": 6,
+          "start": "1000",
+          "end": "1500"
+        }
+      ]
+    },
+    {
+      "name": "Gielgud Theatre",
+      "coordinates": {
+        "latitude": 51.512020111084,
+        "longitude": -0.13323999941349
+      },
+      "id": "gielgud-theatre-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1000",
+          "end": "2000"
+        },
+        {
+          "day": 1,
+          "start": "1000",
+          "end": "2000"
+        },
+        {
+          "day": 2,
+          "start": "1000",
+          "end": "2000"
+        },
+        {
+          "day": 3,
+          "start": "1000",
+          "end": "2000"
+        },
+        {
+          "day": 4,
+          "start": "1000",
+          "end": "2000"
+        },
+        {
+          "day": 5,
+          "start": "1000",
+          "end": "2000"
+        }
+      ]
+    },
+    {
+      "name": "Scala",
+      "coordinates": {
+        "latitude": 51.5307732176212,
+        "longitude": -0.120840203374542
+      },
+      "id": "scala-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 1,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 2,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 3,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 4,
+          "start": "1000",
+          "end": "1800"
+        }
+      ]
+    },
+    {
+      "name": "Big Easy",
+      "coordinates": {
+        "latitude": 51.4852959,
+        "longitude": -0.1744201
+      },
+      "id": "big-easy-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "2330"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "2330"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "2230"
+        }
+      ]
+    },
+    {
+      "name": "The Crobar",
+      "coordinates": {
+        "latitude": 51.514867642482,
+        "longitude": -0.13033772564174
+      },
+      "id": "the-crobar-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1600",
+          "end": "0300"
+        },
+        {
+          "day": 1,
+          "start": "1600",
+          "end": "0300"
+        },
+        {
+          "day": 2,
+          "start": "1600",
+          "end": "0300"
+        },
+        {
+          "day": 3,
+          "start": "1600",
+          "end": "0300"
+        },
+        {
+          "day": 4,
+          "start": "1600",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "1600",
+          "end": "0300"
+        }
+      ]
+    },
+    {
+      "name": "Hippodrome Casino",
+      "coordinates": {
+        "latitude": 51.5114481358807,
+        "longitude": -0.12877836869184
+      },
+      "id": "hippodrome-casino-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0000",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "0000",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "0000",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "0000",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "0000",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "0000",
+          "end": "0000"
+        },
+        {
+          "day": 6,
+          "start": "0000",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Wilton's Music Hall",
+      "coordinates": {
+        "latitude": 51.5105854325666,
+        "longitude": -0.0667762756347656
+      },
+      "id": "wiltons-music-hall-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 5,
+          "start": "1700",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "Proud Camden",
+      "coordinates": {
+        "latitude": 51.54286,
+        "longitude": -0.14874
+      },
+      "id": "proud-camden-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1100",
+          "end": "0130"
+        },
+        {
+          "day": 1,
+          "start": "1100",
+          "end": "0130"
+        },
+        {
+          "day": 2,
+          "start": "1100",
+          "end": "0130"
+        },
+        {
+          "day": 3,
+          "start": "1100",
+          "end": "0230"
+        },
+        {
+          "day": 4,
+          "start": "1100",
+          "end": "0230"
+        },
+        {
+          "day": 5,
+          "start": "1100",
+          "end": "0230"
+        },
+        {
+          "day": 6,
+          "start": "1100",
+          "end": "0030"
+        }
+      ]
+    },
+    {
+      "name": "Palace Theatre",
+      "coordinates": {
+        "latitude": 51.5132393753197,
+        "longitude": -0.129518016286871
+      },
+      "id": "palace-theatre-london-2",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1900",
+          "end": "2130"
+        },
+        {
+          "day": 1,
+          "start": "1900",
+          "end": "2130"
+        },
+        {
+          "day": 2,
+          "start": "1500",
+          "end": "1730"
+        },
+        {
+          "day": 2,
+          "start": "1930",
+          "end": "2200"
+        },
+        {
+          "day": 3,
+          "start": "1930",
+          "end": "2200"
+        },
+        {
+          "day": 4,
+          "start": "1930",
+          "end": "2200"
+        },
+        {
+          "day": 5,
+          "start": "1500",
+          "end": "1730"
+        },
+        {
+          "day": 5,
+          "start": "1930",
+          "end": "2200"
+        }
+      ]
+    },
+    {
+      "name": "Riverside Studios",
+      "coordinates": {
+        "latitude": 51.4885595820839,
+        "longitude": -0.227553046892955
+      },
+      "id": "riverside-studios-london-2",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0830",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "0830",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "0830",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "0830",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "0830",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "1100",
+          "end": "0000"
+        },
+        {
+          "day": 6,
+          "start": "1100",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "The Queen of Hoxton",
+      "coordinates": {
+        "latitude": 51.5222692197122,
+        "longitude": -0.0810885429382324
+      },
+      "id": "the-queen-of-hoxton-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1600",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1600",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1600",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1600",
+          "end": "0200"
+        },
+        {
+          "day": 4,
+          "start": "1600",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1600",
+          "end": "0200"
+        }
+      ]
+    },
+    {
+      "name": "The Social",
+      "coordinates": {
+        "latitude": 51.5174,
+        "longitude": -0.140846
+      },
+      "id": "the-social-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1500",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1500",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1500",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1500",
+          "end": "0100"
+        },
+        {
+          "day": 4,
+          "start": "1230",
+          "end": "0100"
+        },
+        {
+          "day": 5,
+          "start": "1800",
+          "end": "0100"
+        }
+      ]
+    },
+    {
+      "name": "Royal Court Theatre",
+      "coordinates": {
+        "latitude": 51.4925592283224,
+        "longitude": -0.156518185947144
+      },
+      "id": "royal-court-theatre-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1100",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1100",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1100",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "1100",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Barrio Central",
+      "coordinates": {
+        "latitude": 51.5140335,
+        "longitude": -0.1364542
+      },
+      "id": "barrio-central-london-3",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1600",
+          "end": "0100"
+        },
+        {
+          "day": 1,
+          "start": "1600",
+          "end": "0100"
+        },
+        {
+          "day": 2,
+          "start": "1600",
+          "end": "0100"
+        },
+        {
+          "day": 3,
+          "start": "1600",
+          "end": "0100"
+        },
+        {
+          "day": 4,
+          "start": "1600",
+          "end": "0100"
+        },
+        {
+          "day": 5,
+          "start": "1500",
+          "end": "0100"
+        },
+        {
+          "day": 6,
+          "start": "1500",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "The Blues Kitchen",
+      "coordinates": {
+        "latitude": 51.5265204642608,
+        "longitude": -0.0802154487713014
+      },
+      "id": "the-blues-kitchen-london-2",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "0100"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1100",
+          "end": "0300"
+        },
+        {
+          "day": 6,
+          "start": "1100",
+          "end": "2230"
+        }
+      ]
+    },
+    {
+      "name": "Ministry Of Sound",
+      "coordinates": {
+        "latitude": 51.4977791652439,
+        "longitude": -0.0995267984277344
+      },
+      "id": "ministry-of-sound-london",
+      "hours": [
+        {
+          "day": 1,
+          "start": "2300",
+          "end": "0530"
+        },
+        {
+          "day": 4,
+          "start": "2230",
+          "end": "0630"
+        },
+        {
+          "day": 5,
+          "start": "2300",
+          "end": "0700"
+        }
+      ]
+    },
+    {
+      "name": "Bush Hall",
+      "coordinates": {
+        "latitude": 51.5065655,
+        "longitude": -0.2316337
+      },
+      "id": "bush-hall-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1930",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1930",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1930",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1930",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1930",
+          "end": "0100"
+        },
+        {
+          "day": 5,
+          "start": "1930",
+          "end": "0100"
+        },
+        {
+          "day": 6,
+          "start": "1930",
+          "end": "2230"
+        }
+      ]
+    },
+    {
+      "name": "Cargo",
+      "coordinates": {
+        "latitude": 51.526626,
+        "longitude": -0.078913
+      },
+      "id": "cargo-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "0100"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "0100"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "0100"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "0100"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0300"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Royal Vauxhall Tavern",
+      "coordinates": {
+        "latitude": 51.4860659,
+        "longitude": -0.121945
+      },
+      "id": "royal-vauxhall-tavern-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1900",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1800",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1830",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1900",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "1900",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "2100",
+          "end": "0200"
+        },
+        {
+          "day": 6,
+          "start": "1400",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "The Lexington",
+      "coordinates": {
+        "latitude": 51.531721,
+        "longitude": -0.111874
+      },
+      "id": "the-lexington-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "0300"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "0400"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0400"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "0200"
+        }
+      ]
+    },
+    {
+      "name": "Hootananny",
+      "coordinates": {
+        "latitude": 51.4553348340329,
+        "longitude": -0.113342337031209
+      },
+      "id": "hootananny-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1700",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1700",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1700",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1700",
+          "end": "0200"
+        },
+        {
+          "day": 4,
+          "start": "1500",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0300"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "The Old Blue Last",
+      "coordinates": {
+        "latitude": 51.524399848824,
+        "longitude": -0.080219321432476
+      },
+      "id": "the-old-blue-last-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "0030"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "0130"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0130"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "0030"
+        }
+      ]
+    },
+    {
+      "name": "Ace Caf\u00e9 London",
+      "coordinates": {
+        "latitude": 51.5412896239787,
+        "longitude": -0.27782263547976
+      },
+      "id": "ace-caf\u00e9-london-london-2",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 5,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 6,
+          "start": "0700",
+          "end": "2230"
+        }
+      ]
+    },
+    {
+      "name": "606 Club",
+      "coordinates": {
+        "latitude": 51.47813751937,
+        "longitude": -0.1819652922312
+      },
+      "id": "606-club-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1900",
+          "end": "2330"
+        },
+        {
+          "day": 1,
+          "start": "1900",
+          "end": "2330"
+        },
+        {
+          "day": 2,
+          "start": "1900",
+          "end": "2330"
+        },
+        {
+          "day": 3,
+          "start": "1900",
+          "end": "2330"
+        },
+        {
+          "day": 4,
+          "start": "2000",
+          "end": "0100"
+        },
+        {
+          "day": 5,
+          "start": "2000",
+          "end": "0100"
+        },
+        {
+          "day": 6,
+          "start": "1230",
+          "end": "1600"
+        },
+        {
+          "day": 6,
+          "start": "1900",
+          "end": "2330"
+        }
+      ]
+    },
+    {
+      "name": "Victoria Palace Theatre",
+      "coordinates": {
+        "latitude": 51.4967811841893,
+        "longitude": -0.14254894143432
+      },
+      "id": "victoria-palace-theatre-london-2",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1930",
+          "end": "2230"
+        },
+        {
+          "day": 1,
+          "start": "1930",
+          "end": "2230"
+        },
+        {
+          "day": 2,
+          "start": "1930",
+          "end": "2230"
+        },
+        {
+          "day": 3,
+          "start": "1430",
+          "end": "1730"
+        },
+        {
+          "day": 3,
+          "start": "1930",
+          "end": "2230"
+        },
+        {
+          "day": 4,
+          "start": "1930",
+          "end": "2230"
+        },
+        {
+          "day": 5,
+          "start": "1430",
+          "end": "1730"
+        },
+        {
+          "day": 5,
+          "start": "1930",
+          "end": "2230"
+        }
+      ]
+    },
+    {
+      "name": "St Martin's Theatre",
+      "coordinates": {
+        "latitude": 51.512847,
+        "longitude": -0.127672
+      },
+      "id": "st-martins-theatre-london-2",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1000",
+          "end": "2000"
+        },
+        {
+          "day": 1,
+          "start": "1000",
+          "end": "2000"
+        },
+        {
+          "day": 2,
+          "start": "1000",
+          "end": "2000"
+        },
+        {
+          "day": 3,
+          "start": "1000",
+          "end": "2000"
+        },
+        {
+          "day": 4,
+          "start": "1000",
+          "end": "2000"
+        }
+      ]
+    },
+    {
+      "name": "Project Orange",
+      "coordinates": {
+        "latitude": 51.462851913426,
+        "longitude": -0.17040910213262
+      },
+      "id": "project-orange-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1700",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "1700",
+          "end": "0100"
+        },
+        {
+          "day": 5,
+          "start": "1700",
+          "end": "0100"
+        },
+        {
+          "day": 6,
+          "start": "1700",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "The Amersham Arms",
+      "coordinates": {
+        "latitude": 51.4757511346773,
+        "longitude": -0.0325703456536754
+      },
+      "id": "the-amersham-arms-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0300"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "Dublin Castle",
+      "coordinates": {
+        "latitude": 51.5374403159159,
+        "longitude": -0.14556884765625
+      },
+      "id": "dublin-castle-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "0100"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "0100"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "0100"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "0200"
+        }
+      ]
+    },
+    {
+      "name": "CellarDoor",
+      "coordinates": {
+        "latitude": 51.5115235844158,
+        "longitude": -0.119229555130005
+      },
+      "id": "cellardoor-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1600",
+          "end": "0100"
+        },
+        {
+          "day": 1,
+          "start": "1600",
+          "end": "0100"
+        },
+        {
+          "day": 2,
+          "start": "1600",
+          "end": "0100"
+        },
+        {
+          "day": 3,
+          "start": "1600",
+          "end": "0100"
+        },
+        {
+          "day": 4,
+          "start": "1600",
+          "end": "0100"
+        },
+        {
+          "day": 5,
+          "start": "1600",
+          "end": "0100"
+        },
+        {
+          "day": 6,
+          "start": "1600",
+          "end": "0100"
+        }
+      ]
+    },
+    {
+      "name": "The Garage",
+      "coordinates": {
+        "latitude": 51.546742,
+        "longitude": -0.103971
+      },
+      "id": "the-garage-london-6",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1900",
+          "end": "0100"
+        },
+        {
+          "day": 1,
+          "start": "1900",
+          "end": "0100"
+        },
+        {
+          "day": 2,
+          "start": "1900",
+          "end": "0100"
+        },
+        {
+          "day": 3,
+          "start": "1900",
+          "end": "0100"
+        },
+        {
+          "day": 4,
+          "start": "1900",
+          "end": "0400"
+        },
+        {
+          "day": 5,
+          "start": "1900",
+          "end": "0400"
+        },
+        {
+          "day": 6,
+          "start": "1700",
+          "end": "1100"
+        }
+      ]
+    },
+    {
+      "name": "O2 Shepherd's Bush Empire",
+      "coordinates": {
+        "latitude": 51.503868,
+        "longitude": -0.224193
+      },
+      "id": "o2-shepherds-bush-empire-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0900",
+          "end": "1730"
+        },
+        {
+          "day": 1,
+          "start": "0930",
+          "end": "1730"
+        },
+        {
+          "day": 2,
+          "start": "0900",
+          "end": "1730"
+        },
+        {
+          "day": 3,
+          "start": "0900",
+          "end": "1730"
+        },
+        {
+          "day": 4,
+          "start": "0900",
+          "end": "1730"
+        },
+        {
+          "day": 5,
+          "start": "0900",
+          "end": "1730"
+        }
+      ]
+    },
+    {
+      "name": "Caf\u00e9 Oto",
+      "coordinates": {
+        "latitude": 51.5469106942846,
+        "longitude": -0.0747883560309078
+      },
+      "id": "cafe-oto-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0930",
+          "end": "1730"
+        },
+        {
+          "day": 0,
+          "start": "2000",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "0930",
+          "end": "1730"
+        },
+        {
+          "day": 1,
+          "start": "2000",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "0930",
+          "end": "1730"
+        },
+        {
+          "day": 2,
+          "start": "2000",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "0930",
+          "end": "1730"
+        },
+        {
+          "day": 3,
+          "start": "2000",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "0930",
+          "end": "1730"
+        },
+        {
+          "day": 4,
+          "start": "2000",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "1030",
+          "end": "1730"
+        },
+        {
+          "day": 5,
+          "start": "2000",
+          "end": "0000"
+        },
+        {
+          "day": 6,
+          "start": "1030",
+          "end": "1730"
+        },
+        {
+          "day": 6,
+          "start": "2000",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "The Bedford",
+      "coordinates": {
+        "latitude": 51.442671525594,
+        "longitude": -0.14921327694168
+      },
+      "id": "the-bedford-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1045",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1045",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1045",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1045",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "1045",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Barrio Shoreditch",
+      "coordinates": {
+        "latitude": 51.5261481076847,
+        "longitude": -0.0781682810583805
+      },
+      "id": "barrio-shoreditch-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1600",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1600",
+          "end": "0100"
+        },
+        {
+          "day": 2,
+          "start": "1600",
+          "end": "0100"
+        },
+        {
+          "day": 3,
+          "start": "1600",
+          "end": "0200"
+        },
+        {
+          "day": 4,
+          "start": "1600",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "93 Feet East",
+      "coordinates": {
+        "latitude": 51.5212392528136,
+        "longitude": -0.0715507998863814
+      },
+      "id": "93-feet-east-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1700",
+          "end": "0100"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0100"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "2230"
+        }
+      ]
+    },
+    {
+      "name": "Green Note",
+      "coordinates": {
+        "latitude": 51.537438632465,
+        "longitude": -0.14565062803498
+      },
+      "id": "green-note-london",
+      "hours": [
+        {
+          "day": 2,
+          "start": "1900",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1900",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1900",
+          "end": "2300"
+        },
+        {
+          "day": 5,
+          "start": "1830",
+          "end": "2300"
+        },
+        {
+          "day": 6,
+          "start": "1900",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "Aces & Eights",
+      "coordinates": {
+        "latitude": 51.5568156548447,
+        "longitude": -0.138423442840576
+      },
+      "id": "aces-and-eights-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1600",
+          "end": "0100"
+        },
+        {
+          "day": 1,
+          "start": "1600",
+          "end": "0100"
+        },
+        {
+          "day": 2,
+          "start": "1600",
+          "end": "0100"
+        },
+        {
+          "day": 3,
+          "start": "1600",
+          "end": "0100"
+        },
+        {
+          "day": 4,
+          "start": "1600",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "1600",
+          "end": "0300"
+        },
+        {
+          "day": 6,
+          "start": "1600",
+          "end": "0100"
+        }
+      ]
+    },
+    {
+      "name": "Zigfrid von Underbelly",
+      "coordinates": {
+        "latitude": 51.528021687624,
+        "longitude": -0.081736889127628
+      },
+      "id": "zigfrid-von-underbelly-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1600",
+          "end": "0100"
+        },
+        {
+          "day": 1,
+          "start": "1600",
+          "end": "0100"
+        },
+        {
+          "day": 2,
+          "start": "1600",
+          "end": "0100"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "0100"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0300"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "The Macbeth",
+      "coordinates": {
+        "latitude": 51.5301725,
+        "longitude": -0.0800395
+      },
+      "id": "the-macbeth-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1700",
+          "end": "0100"
+        },
+        {
+          "day": 1,
+          "start": "1700",
+          "end": "0100"
+        },
+        {
+          "day": 2,
+          "start": "1700",
+          "end": "0100"
+        },
+        {
+          "day": 3,
+          "start": "1700",
+          "end": "0200"
+        },
+        {
+          "day": 4,
+          "start": "1700",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1700",
+          "end": "0200"
+        },
+        {
+          "day": 6,
+          "start": "1700",
+          "end": "0100"
+        }
+      ]
+    },
+    {
+      "name": "The Monarch",
+      "coordinates": {
+        "latitude": 51.542969,
+        "longitude": -0.148471
+      },
+      "id": "the-monarch-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "0030"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "0030"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "0030"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "0030"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "0230"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0230"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "0030"
+        }
+      ]
+    },
+    {
+      "name": "The Tabernacle",
+      "coordinates": {
+        "latitude": 51.5170565400035,
+        "longitude": -0.201921745849805
+      },
+      "id": "the-tabernacle-london-3",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0900",
+          "end": "2230"
+        },
+        {
+          "day": 1,
+          "start": "0900",
+          "end": "2230"
+        },
+        {
+          "day": 2,
+          "start": "0900",
+          "end": "2230"
+        },
+        {
+          "day": 3,
+          "start": "0900",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "0900",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "0900",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Tooting Tram and Social",
+      "coordinates": {
+        "latitude": 51.4269222179313,
+        "longitude": -0.166769027709961
+      },
+      "id": "tooting-tram-and-social-london",
+      "hours": [
+        {
+          "day": 1,
+          "start": "1700",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1700",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1700",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "1700",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1700",
+          "end": "0200"
+        },
+        {
+          "day": 6,
+          "start": "1700",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Jazz Cafe",
+      "coordinates": {
+        "latitude": 51.538732436501,
+        "longitude": -0.14318484710043
+      },
+      "id": "jazz-cafe-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1030",
+          "end": "1730"
+        },
+        {
+          "day": 0,
+          "start": "1900",
+          "end": "0200"
+        },
+        {
+          "day": 1,
+          "start": "1030",
+          "end": "1730"
+        },
+        {
+          "day": 1,
+          "start": "1900",
+          "end": "0200"
+        },
+        {
+          "day": 2,
+          "start": "1030",
+          "end": "1730"
+        },
+        {
+          "day": 2,
+          "start": "1900",
+          "end": "0200"
+        },
+        {
+          "day": 3,
+          "start": "1030",
+          "end": "1730"
+        },
+        {
+          "day": 3,
+          "start": "1900",
+          "end": "0200"
+        },
+        {
+          "day": 4,
+          "start": "1030",
+          "end": "1730"
+        },
+        {
+          "day": 4,
+          "start": "1900",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1030",
+          "end": "1730"
+        },
+        {
+          "day": 5,
+          "start": "1900",
+          "end": "0200"
+        },
+        {
+          "day": 6,
+          "start": "1900",
+          "end": "0200"
+        }
+      ]
+    },
+    {
+      "name": "The Auld Shillelagh",
+      "coordinates": {
+        "latitude": 51.5619952,
+        "longitude": -0.0796315
+      },
+      "id": "the-auld-shillelagh-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 5,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "2230"
+        }
+      ]
+    },
+    {
+      "name": "The Magic Garden",
+      "coordinates": {
+        "latitude": 51.4753843,
+        "longitude": -0.1508424
+      },
+      "id": "the-magic-garden-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1030",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1030",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1030",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1030",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "1030",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1030",
+          "end": "0200"
+        },
+        {
+          "day": 6,
+          "start": "1030",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Cavendish Arms",
+      "coordinates": {
+        "latitude": 51.476471418827,
+        "longitude": -0.12766745324286
+      },
+      "id": "cavendish-arms-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1700",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1700",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1700",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1700",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "1700",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1700",
+          "end": "0200"
+        },
+        {
+          "day": 6,
+          "start": "1700",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Spiritual Caipirinha Bar",
+      "coordinates": {
+        "latitude": 51.543273,
+        "longitude": -0.14892
+      },
+      "id": "spiritual-caipirinha-bar-london",
+      "hours": [
+        {
+          "day": 1,
+          "start": "1800",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1800",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1800",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "1800",
+          "end": "0100"
+        },
+        {
+          "day": 5,
+          "start": "1800",
+          "end": "0100"
+        },
+        {
+          "day": 6,
+          "start": "1800",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Royal Academy Of Music",
+      "coordinates": {
+        "latitude": 51.523622,
+        "longitude": -0.152168
+      },
+      "id": "royal-academy-of-music-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 5,
+          "start": "0800",
+          "end": "2100"
+        },
+        {
+          "day": 6,
+          "start": "1000",
+          "end": "1800"
+        }
+      ]
+    },
+    {
+      "name": "The Oxford",
+      "coordinates": {
+        "latitude": 51.549771394244,
+        "longitude": -0.14065004384714
+      },
+      "id": "the-oxford-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "2330"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "2330"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "2330"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "2330"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "2230"
+        }
+      ]
+    },
+    {
+      "name": "The Prince of Wales",
+      "coordinates": {
+        "latitude": 51.4615158361667,
+        "longitude": -0.114824050446974
+      },
+      "id": "the-prince-of-wales-london-9",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0900",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "0900",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "0900",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "0900",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "0900",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "0900",
+          "end": "0300"
+        },
+        {
+          "day": 6,
+          "start": "0900",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "Bateaux London",
+      "coordinates": {
+        "latitude": 51.5087818003374,
+        "longitude": -0.121504322753935
+      },
+      "id": "bateaux-london-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "Caff\u00e9 Concerto",
+      "coordinates": {
+        "latitude": 51.509699,
+        "longitude": -0.136678
+      },
+      "id": "caff\u00e9-concerto-london-8",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 5,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 6,
+          "start": "0700",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "The Half Moon",
+      "coordinates": {
+        "latitude": 51.4527530528328,
+        "longitude": -0.100755123837709
+      },
+      "id": "the-half-moon-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "0700",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "0800",
+          "end": "0000"
+        },
+        {
+          "day": 6,
+          "start": "0800",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "The Midnight Rebel Band",
+      "coordinates": {
+        "latitude": 51.53476,
+        "longitude": -0.1391449
+      },
+      "id": "the-midnight-rebel-band-london",
+      "hours": [
+        {
+          "day": 4,
+          "start": "2230",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "2230",
+          "end": "0300"
+        }
+      ]
+    },
+    {
+      "name": "Catch",
+      "coordinates": {
+        "latitude": 51.52792278892,
+        "longitude": -0.077923841826091
+      },
+      "id": "catch-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "0100"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "0100"
+        }
+      ]
+    },
+    {
+      "name": "Tamesis Dock",
+      "coordinates": {
+        "latitude": 51.4885783958466,
+        "longitude": -0.12484073638916
+      },
+      "id": "tamesis-dock-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1130",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1130",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1130",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1130",
+          "end": "0100"
+        },
+        {
+          "day": 4,
+          "start": "1130",
+          "end": "0100"
+        },
+        {
+          "day": 5,
+          "start": "1030",
+          "end": "0100"
+        },
+        {
+          "day": 6,
+          "start": "1030",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "The Vortex Jazz Club",
+      "coordinates": {
+        "latitude": 51.54932,
+        "longitude": -0.0765167
+      },
+      "id": "the-vortex-jazz-club-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "2000",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "2000",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "2000",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "2000",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "2000",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "2000",
+          "end": "0000"
+        },
+        {
+          "day": 6,
+          "start": "2000",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "The George Tavern",
+      "coordinates": {
+        "latitude": 51.514333,
+        "longitude": -0.053114
+      },
+      "id": "the-george-tavern-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1400",
+          "end": "0200"
+        },
+        {
+          "day": 1,
+          "start": "1400",
+          "end": "0200"
+        },
+        {
+          "day": 2,
+          "start": "1400",
+          "end": "0200"
+        },
+        {
+          "day": 3,
+          "start": "1400",
+          "end": "0200"
+        },
+        {
+          "day": 4,
+          "start": "1400",
+          "end": "0330"
+        },
+        {
+          "day": 5,
+          "start": "1400",
+          "end": "0330"
+        },
+        {
+          "day": 6,
+          "start": "1600",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Troxy",
+      "coordinates": {
+        "latitude": 51.513046454246,
+        "longitude": -0.044002543242645
+      },
+      "id": "troxy-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0000",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "0000",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "0000",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "0000",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "0000",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "0000",
+          "end": "0000"
+        },
+        {
+          "day": 6,
+          "start": "0000",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Hope & Anchor",
+      "coordinates": {
+        "latitude": 51.5432942,
+        "longitude": -0.1034354
+      },
+      "id": "hope-and-anchor-london-3",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0900",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "0900",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "0900",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "0900",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "0900",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "0900",
+          "end": "0000"
+        },
+        {
+          "day": 6,
+          "start": "0900",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "The World's End",
+      "coordinates": {
+        "latitude": 51.5669706786338,
+        "longitude": -0.108245629127386
+      },
+      "id": "the-worlds-end-london-3",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "0100"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0100"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "Bloomsbury Theatre",
+      "coordinates": {
+        "latitude": 51.524951106569,
+        "longitude": -0.13258571441719
+      },
+      "id": "bloomsbury-theatre-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 1,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 2,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 3,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 4,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "1800"
+        }
+      ]
+    },
+    {
+      "name": "Conway Hall",
+      "coordinates": {
+        "latitude": 51.5195474,
+        "longitude": -0.1184159
+      },
+      "id": "conway-hall-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0830",
+          "end": "2230"
+        },
+        {
+          "day": 1,
+          "start": "0830",
+          "end": "2230"
+        },
+        {
+          "day": 2,
+          "start": "0830",
+          "end": "2230"
+        },
+        {
+          "day": 3,
+          "start": "0830",
+          "end": "2230"
+        },
+        {
+          "day": 4,
+          "start": "0830",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "0830",
+          "end": "0000"
+        },
+        {
+          "day": 6,
+          "start": "0830",
+          "end": "2200"
+        }
+      ]
+    },
+    {
+      "name": "Barfly",
+      "coordinates": {
+        "latitude": 51.543146724567,
+        "longitude": -0.14925982752823
+      },
+      "id": "barfly-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1500",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1500",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1500",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1500",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "1500",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "1500",
+          "end": "0300"
+        },
+        {
+          "day": 6,
+          "start": "1900",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "The Haggerston",
+      "coordinates": {
+        "latitude": 51.5423317678967,
+        "longitude": -0.0760137393303717
+      },
+      "id": "the-haggerston-london-2",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1500",
+          "end": "0100"
+        },
+        {
+          "day": 1,
+          "start": "1500",
+          "end": "0100"
+        },
+        {
+          "day": 2,
+          "start": "1500",
+          "end": "0100"
+        },
+        {
+          "day": 3,
+          "start": "1100",
+          "end": "0100"
+        },
+        {
+          "day": 4,
+          "start": "1100",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "1100",
+          "end": "0300"
+        },
+        {
+          "day": 6,
+          "start": "1100",
+          "end": "0300"
+        }
+      ]
+    },
+    {
+      "name": "Mau Mau Bar",
+      "coordinates": {
+        "latitude": 51.51786,
+        "longitude": -0.206798
+      },
+      "id": "mau-mau-bar-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1000",
+          "end": "2330"
+        },
+        {
+          "day": 1,
+          "start": "1000",
+          "end": "2330"
+        },
+        {
+          "day": 2,
+          "start": "1000",
+          "end": "2330"
+        },
+        {
+          "day": 3,
+          "start": "1000",
+          "end": "2330"
+        },
+        {
+          "day": 4,
+          "start": "1000",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "1000",
+          "end": "0000"
+        },
+        {
+          "day": 6,
+          "start": "1100",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "Ritzy",
+      "coordinates": {
+        "latitude": 51.4613079982434,
+        "longitude": -0.114782525333122
+      },
+      "id": "ritzy-london-2",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Half Moon",
+      "coordinates": {
+        "latitude": 51.467307060842,
+        "longitude": -0.22006806110739
+      },
+      "id": "half-moon-london-2",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1100",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1100",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1100",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1100",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "1100",
+          "end": "0100"
+        },
+        {
+          "day": 5,
+          "start": "1100",
+          "end": "0100"
+        },
+        {
+          "day": 6,
+          "start": "1100",
+          "end": "2330"
+        }
+      ]
+    },
+    {
+      "name": "Piccadilly Theatre",
+      "coordinates": {
+        "latitude": 51.5108549,
+        "longitude": -0.1353599
+      },
+      "id": "piccadilly-theatre-london-4",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1000",
+          "end": "2000"
+        },
+        {
+          "day": 1,
+          "start": "1000",
+          "end": "2000"
+        },
+        {
+          "day": 2,
+          "start": "1000",
+          "end": "2000"
+        },
+        {
+          "day": 3,
+          "start": "1000",
+          "end": "2000"
+        },
+        {
+          "day": 4,
+          "start": "1000",
+          "end": "2000"
+        },
+        {
+          "day": 5,
+          "start": "1000",
+          "end": "2000"
+        }
+      ]
+    },
+    {
+      "name": "The Clapham Grand",
+      "coordinates": {
+        "latitude": 51.463081,
+        "longitude": -0.169394
+      },
+      "id": "the-clapham-grand-london",
+      "hours": [
+        {
+          "day": 4,
+          "start": "2000",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "2000",
+          "end": "0300"
+        }
+      ]
+    },
+    {
+      "name": "Bush Theatre",
+      "coordinates": {
+        "latitude": 51.505227931921,
+        "longitude": -0.2259240014056
+      },
+      "id": "bush-theatre-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1000",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1000",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1000",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1000",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1000",
+          "end": "2300"
+        },
+        {
+          "day": 5,
+          "start": "1000",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "Hare & Hounds",
+      "coordinates": {
+        "latitude": 51.465033092659,
+        "longitude": -0.26454742522125
+      },
+      "id": "hare-and-hounds-london-2",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1100",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "1100",
+          "end": "0000"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "2230"
+        }
+      ]
+    },
+    {
+      "name": "Cadogan Hall",
+      "coordinates": {
+        "latitude": 51.4936625,
+        "longitude": -0.1575743
+      },
+      "id": "cadogan-hall-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 1,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 2,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 3,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 4,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 5,
+          "start": "1000",
+          "end": "1800"
+        }
+      ]
+    },
+    {
+      "name": "Floripa",
+      "coordinates": {
+        "latitude": 51.5259291627647,
+        "longitude": -0.0837498451732586
+      },
+      "id": "floripa-london",
+      "hours": [
+        {
+          "day": 1,
+          "start": "1700",
+          "end": "0100"
+        },
+        {
+          "day": 2,
+          "start": "1700",
+          "end": "0100"
+        },
+        {
+          "day": 3,
+          "start": "1700",
+          "end": "0100"
+        },
+        {
+          "day": 4,
+          "start": "1700",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "1700",
+          "end": "0300"
+        },
+        {
+          "day": 6,
+          "start": "1700",
+          "end": "0100"
+        }
+      ]
+    },
+    {
+      "name": "St James Theatre",
+      "coordinates": {
+        "latitude": 51.4988158356587,
+        "longitude": -0.142263960119093
+      },
+      "id": "st-james-theatre-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1400",
+          "end": "1930"
+        },
+        {
+          "day": 1,
+          "start": "1400",
+          "end": "1930"
+        },
+        {
+          "day": 2,
+          "start": "1400",
+          "end": "1930"
+        },
+        {
+          "day": 3,
+          "start": "1400",
+          "end": "1930"
+        },
+        {
+          "day": 4,
+          "start": "1400",
+          "end": "1930"
+        },
+        {
+          "day": 5,
+          "start": "1400",
+          "end": "1930"
+        }
+      ]
+    },
+    {
+      "name": "Under The Bridge",
+      "coordinates": {
+        "latitude": 51.4811325073242,
+        "longitude": -0.190309002995491
+      },
+      "id": "under-the-bridge-london",
+      "hours": [
+        {
+          "day": 4,
+          "start": "1900",
+          "end": "0100"
+        },
+        {
+          "day": 5,
+          "start": "1900",
+          "end": "0100"
+        }
+      ]
+    },
+    {
+      "name": "333 Mother Bar",
+      "coordinates": {
+        "latitude": 51.527267010015,
+        "longitude": -0.080362003315629
+      },
+      "id": "333-mother-bar-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "0230"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "0230"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "0230"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "0230"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0300"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "0230"
+        }
+      ]
+    },
+    {
+      "name": "The Coronet",
+      "coordinates": {
+        "latitude": 51.494888,
+        "longitude": -0.0988307
+      },
+      "id": "the-coronet-london-3",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1000",
+          "end": "0300"
+        },
+        {
+          "day": 1,
+          "start": "1000",
+          "end": "0300"
+        },
+        {
+          "day": 2,
+          "start": "1000",
+          "end": "0300"
+        },
+        {
+          "day": 3,
+          "start": "1000",
+          "end": "0700"
+        },
+        {
+          "day": 4,
+          "start": "1000",
+          "end": "0700"
+        },
+        {
+          "day": 5,
+          "start": "1000",
+          "end": "0700"
+        },
+        {
+          "day": 6,
+          "start": "1000",
+          "end": "0700"
+        }
+      ]
+    },
+    {
+      "name": "Proud Cabaret",
+      "coordinates": {
+        "latitude": 51.511621,
+        "longitude": -0.08074
+      },
+      "id": "proud-cabaret-london",
+      "hours": [
+        {
+          "day": 2,
+          "start": "1700",
+          "end": "0200"
+        },
+        {
+          "day": 3,
+          "start": "1700",
+          "end": "0200"
+        },
+        {
+          "day": 4,
+          "start": "1700",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "1700",
+          "end": "0300"
+        }
+      ]
+    },
+    {
+      "name": "Ladybird Bar",
+      "coordinates": {
+        "latitude": 51.536001,
+        "longitude": -0.104026
+      },
+      "id": "ladybird-bar-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1700",
+          "end": "0200"
+        },
+        {
+          "day": 1,
+          "start": "1700",
+          "end": "0200"
+        },
+        {
+          "day": 2,
+          "start": "1700",
+          "end": "0200"
+        },
+        {
+          "day": 3,
+          "start": "1700",
+          "end": "0200"
+        },
+        {
+          "day": 4,
+          "start": "1700",
+          "end": "0400"
+        },
+        {
+          "day": 5,
+          "start": "1700",
+          "end": "0400"
+        },
+        {
+          "day": 6,
+          "start": "1700",
+          "end": "0200"
+        }
+      ]
+    },
+    {
+      "name": "The Victoria",
+      "coordinates": {
+        "latitude": 51.529283973369,
+        "longitude": -0.038290506798089
+      },
+      "id": "the-victoria-london-11",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "0700",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "0900",
+          "end": "0000"
+        },
+        {
+          "day": 6,
+          "start": "0900",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "The Star of Kings",
+      "coordinates": {
+        "latitude": 51.536349393253,
+        "longitude": -0.12204283764421
+      },
+      "id": "the-star-of-kings-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1130",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1130",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1130",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1130",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "1130",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "1130",
+          "end": "0000"
+        },
+        {
+          "day": 6,
+          "start": "1130",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Camden Peoples Theatre",
+      "coordinates": {
+        "latitude": 51.526399,
+        "longitude": -0.138404
+      },
+      "id": "camden-peoples-theatre-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 1,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 2,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 3,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 4,
+          "start": "1000",
+          "end": "1800"
+        }
+      ]
+    },
+    {
+      "name": "RADA Studios",
+      "coordinates": {
+        "latitude": 51.5207403,
+        "longitude": -0.1326435
+      },
+      "id": "rada-studios-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0900",
+          "end": "2200"
+        },
+        {
+          "day": 1,
+          "start": "0900",
+          "end": "2200"
+        },
+        {
+          "day": 2,
+          "start": "0900",
+          "end": "2200"
+        },
+        {
+          "day": 3,
+          "start": "0900",
+          "end": "2200"
+        },
+        {
+          "day": 4,
+          "start": "0900",
+          "end": "2200"
+        }
+      ]
+    },
+    {
+      "name": "Sevilla Mia",
+      "coordinates": {
+        "latitude": 51.51691,
+        "longitude": -0.132074
+      },
+      "id": "sevilla-mia-london",
+      "hours": [
+        {
+          "day": 1,
+          "start": "1700",
+          "end": "0130"
+        },
+        {
+          "day": 2,
+          "start": "1700",
+          "end": "0130"
+        },
+        {
+          "day": 3,
+          "start": "1700",
+          "end": "0130"
+        },
+        {
+          "day": 4,
+          "start": "1700",
+          "end": "0230"
+        }
+      ]
+    },
+    {
+      "name": "Roadtrip & The Workshop",
+      "coordinates": {
+        "latitude": 51.526634,
+        "longitude": -0.084333
+      },
+      "id": "roadtrip-and-the-workshop-london-2",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "0100"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "0300"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "0500"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0500"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "0100"
+        }
+      ]
+    },
+    {
+      "name": "Birthdays",
+      "coordinates": {
+        "latitude": 51.5515994924597,
+        "longitude": -0.0752017300954
+      },
+      "id": "birthdays-london-14",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1600",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1600",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1600",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1600",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "1600",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0300"
+        },
+        {
+          "day": 6,
+          "start": "1100",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "The Hideaway",
+      "coordinates": {
+        "latitude": 51.5642660244139,
+        "longitude": -0.136642456054688
+      },
+      "id": "the-hideaway-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1700",
+          "end": "2330"
+        },
+        {
+          "day": 1,
+          "start": "1700",
+          "end": "2330"
+        },
+        {
+          "day": 2,
+          "start": "1700",
+          "end": "2330"
+        },
+        {
+          "day": 3,
+          "start": "1700",
+          "end": "0100"
+        },
+        {
+          "day": 4,
+          "start": "1700",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1700",
+          "end": "0200"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "The Moustache Bar",
+      "coordinates": {
+        "latitude": 51.552331,
+        "longitude": -0.074802
+      },
+      "id": "the-moustache-bar-london",
+      "hours": [
+        {
+          "day": 2,
+          "start": "1930",
+          "end": "0100"
+        },
+        {
+          "day": 3,
+          "start": "1930",
+          "end": "0100"
+        },
+        {
+          "day": 4,
+          "start": "1930",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1930",
+          "end": "0200"
+        }
+      ]
+    },
+    {
+      "name": "The Cockpit",
+      "coordinates": {
+        "latitude": 51.524528,
+        "longitude": -0.1692918
+      },
+      "id": "the-cockpit-london-3",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 1,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 2,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 3,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 4,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 5,
+          "start": "1000",
+          "end": "1800"
+        }
+      ]
+    },
+    {
+      "name": "Servant Jazz Quarters",
+      "coordinates": {
+        "latitude": 51.5486422,
+        "longitude": -0.0767218
+      },
+      "id": "servant-jazz-quarters-london",
+      "hours": [
+        {
+          "day": 1,
+          "start": "1800",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1800",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1800",
+          "end": "2330"
+        },
+        {
+          "day": 4,
+          "start": "1800",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1800",
+          "end": "0200"
+        },
+        {
+          "day": 6,
+          "start": "1700",
+          "end": "2230"
+        }
+      ]
+    },
+    {
+      "name": "The Venue",
+      "coordinates": {
+        "latitude": 51.475823140255,
+        "longitude": -0.036570240498117
+      },
+      "id": "the-venue-london-2",
+      "hours": [
+        {
+          "day": 4,
+          "start": "2200",
+          "end": "0400"
+        },
+        {
+          "day": 5,
+          "start": "2200",
+          "end": "0500"
+        }
+      ]
+    },
+    {
+      "name": "Connolly's Chiswick",
+      "coordinates": {
+        "latitude": 51.492862405716,
+        "longitude": -0.26771812200931
+      },
+      "id": "connollys-chiswick-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1100",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1100",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1100",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1100",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "1100",
+          "end": "0100"
+        },
+        {
+          "day": 5,
+          "start": "1100",
+          "end": "0100"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "The Scotch of St James",
+      "coordinates": {
+        "latitude": 51.5076125,
+        "longitude": -0.1372408
+      },
+      "id": "the-scotch-of-st-james-london",
+      "hours": [
+        {
+          "day": 4,
+          "start": "2300",
+          "end": "0500"
+        },
+        {
+          "day": 5,
+          "start": "2300",
+          "end": "0500"
+        }
+      ]
+    },
+    {
+      "name": "Jamboree",
+      "coordinates": {
+        "latitude": 51.5114288,
+        "longitude": -0.0432596
+      },
+      "id": "jamboree-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1900",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1900",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1900",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1900",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "2000",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "2000",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "New Cross Inn",
+      "coordinates": {
+        "latitude": 51.4758249,
+        "longitude": -0.037135
+      },
+      "id": "new-cross-inn-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1000",
+          "end": "0200"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "0030"
+        }
+      ]
+    },
+    {
+      "name": "Kingpin Suite",
+      "coordinates": {
+        "latitude": 51.524251,
+        "longitude": -0.128328
+      },
+      "id": "kingpin-suite-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "0200"
+        }
+      ]
+    },
+    {
+      "name": "Suburban Bar & Lounge",
+      "coordinates": {
+        "latitude": 51.419587,
+        "longitude": -0.205718
+      },
+      "id": "suburban-bar-and-lounge-wimbledon",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1700",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "1700",
+          "end": "0000"
+        },
+        {
+          "day": 6,
+          "start": "1700",
+          "end": "2230"
+        }
+      ]
+    },
+    {
+      "name": "Islington Assembly Hall",
+      "coordinates": {
+        "latitude": 51.5416247324842,
+        "longitude": -0.102659732540928
+      },
+      "id": "islington-assembly-hall-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0900",
+          "end": "1700"
+        },
+        {
+          "day": 1,
+          "start": "0900",
+          "end": "1700"
+        },
+        {
+          "day": 2,
+          "start": "0900",
+          "end": "1700"
+        },
+        {
+          "day": 3,
+          "start": "0900",
+          "end": "1700"
+        },
+        {
+          "day": 4,
+          "start": "0900",
+          "end": "1700"
+        }
+      ]
+    },
+    {
+      "name": "The CLF Art Cafe",
+      "coordinates": {
+        "latitude": 51.469866,
+        "longitude": -0.068008
+      },
+      "id": "the-clf-art-cafe-london-2",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1700",
+          "end": "0230"
+        },
+        {
+          "day": 4,
+          "start": "1700",
+          "end": "0600"
+        },
+        {
+          "day": 5,
+          "start": "1700",
+          "end": "0600"
+        },
+        {
+          "day": 6,
+          "start": "1700",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "The Victoria",
+      "coordinates": {
+        "latitude": 51.5456506,
+        "longitude": -0.0699801
+      },
+      "id": "the-victoria-london-19",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1700",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1700",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1700",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1700",
+          "end": "0100"
+        },
+        {
+          "day": 4,
+          "start": "1700",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 6,
+          "start": "1700",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Shacklewell Arms",
+      "coordinates": {
+        "latitude": 51.5523861372771,
+        "longitude": -0.0713196999300147
+      },
+      "id": "shacklewell-arms-dalston",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0400",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "0400",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "0400",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "0400",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "0400",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0300"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "LSE Student Union",
+      "coordinates": {
+        "latitude": 51.513976,
+        "longitude": -0.116744
+      },
+      "id": "lse-student-union-london",
+      "hours": [
+        {
+          "day": 5,
+          "start": "2200",
+          "end": "0300"
+        }
+      ]
+    },
+    {
+      "name": "showcase55",
+      "coordinates": {
+        "latitude": 51.529019,
+        "longitude": -0.083858
+      },
+      "id": "showcase55-london",
+      "hours": [
+        {
+          "day": 3,
+          "start": "1700",
+          "end": "2330"
+        }
+      ]
+    },
+    {
+      "name": "The Crystal",
+      "coordinates": {
+        "latitude": 51.5072956804427,
+        "longitude": 0.0162407456367161
+      },
+      "id": "the-crystal-london",
+      "hours": [
+        {
+          "day": 1,
+          "start": "1000",
+          "end": "1700"
+        },
+        {
+          "day": 2,
+          "start": "1000",
+          "end": "1700"
+        },
+        {
+          "day": 3,
+          "start": "1000",
+          "end": "1700"
+        },
+        {
+          "day": 4,
+          "start": "1000",
+          "end": "1700"
+        },
+        {
+          "day": 5,
+          "start": "1000",
+          "end": "1900"
+        },
+        {
+          "day": 6,
+          "start": "1000",
+          "end": "1900"
+        }
+      ]
+    },
+    {
+      "name": "Club 414",
+      "coordinates": {
+        "latitude": 51.461868,
+        "longitude": -0.113088
+      },
+      "id": "club-414-brixton",
+      "hours": [
+        {
+          "day": 4,
+          "start": "2300",
+          "end": "0900"
+        },
+        {
+          "day": 5,
+          "start": "2300",
+          "end": "0900"
+        }
+      ]
+    },
+    {
+      "name": "AlleyCat Club",
+      "coordinates": {
+        "latitude": 51.515308380127,
+        "longitude": -0.129185006022453
+      },
+      "id": "alleycat-club-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1700",
+          "end": "0200"
+        },
+        {
+          "day": 1,
+          "start": "1700",
+          "end": "0200"
+        },
+        {
+          "day": 2,
+          "start": "1700",
+          "end": "0200"
+        },
+        {
+          "day": 3,
+          "start": "1700",
+          "end": "0300"
+        },
+        {
+          "day": 4,
+          "start": "1700",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "1700",
+          "end": "0300"
+        },
+        {
+          "day": 6,
+          "start": "1700",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "The Prince Albert",
+      "coordinates": {
+        "latitude": 51.4616655419757,
+        "longitude": -0.113720720506352
+      },
+      "id": "the-prince-albert-brixton",
+      "hours": [
+        {
+          "day": 0,
+          "start": "2100",
+          "end": "0300"
+        },
+        {
+          "day": 1,
+          "start": "2100",
+          "end": "0300"
+        },
+        {
+          "day": 2,
+          "start": "2100",
+          "end": "0300"
+        },
+        {
+          "day": 3,
+          "start": "2100",
+          "end": "0300"
+        },
+        {
+          "day": 4,
+          "start": "2100",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "2100",
+          "end": "0300"
+        },
+        {
+          "day": 6,
+          "start": "2100",
+          "end": "0300"
+        }
+      ]
+    },
+    {
+      "name": "Troyganic Cafe",
+      "coordinates": {
+        "latitude": 51.5305929239808,
+        "longitude": -0.0772261619567871
+      },
+      "id": "troyganic-cafe-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0730",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "0730",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "0730",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "0730",
+          "end": "0200"
+        },
+        {
+          "day": 4,
+          "start": "0730",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "0730",
+          "end": "0200"
+        },
+        {
+          "day": 6,
+          "start": "0830",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "Tape London",
+      "coordinates": {
+        "latitude": 51.5142764636541,
+        "longitude": -0.144618398406007
+      },
+      "id": "tape-london-london-2",
+      "hours": [
+        {
+          "day": 1,
+          "start": "2200",
+          "end": "0300"
+        },
+        {
+          "day": 2,
+          "start": "2200",
+          "end": "0300"
+        },
+        {
+          "day": 3,
+          "start": "2200",
+          "end": "0300"
+        },
+        {
+          "day": 4,
+          "start": "2200",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "2200",
+          "end": "0300"
+        }
+      ]
+    },
+    {
+      "name": "The Artworks Elephant",
+      "coordinates": {
+        "latitude": 51.4931476501709,
+        "longitude": -0.0985406711697579
+      },
+      "id": "the-artworks-elephant-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0800",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "0800",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "0800",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "0800",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "0800",
+          "end": "0100"
+        },
+        {
+          "day": 5,
+          "start": "0800",
+          "end": "0100"
+        },
+        {
+          "day": 6,
+          "start": "1000",
+          "end": "2200"
+        }
+      ]
+    },
+    {
+      "name": "oil on canvas",
+      "coordinates": {
+        "latitude": 51.5002,
+        "longitude": -0.126236
+      },
+      "id": "oil-on-canvas-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0900",
+          "end": "1800"
+        },
+        {
+          "day": 1,
+          "start": "0900",
+          "end": "1800"
+        },
+        {
+          "day": 2,
+          "start": "0900",
+          "end": "1800"
+        },
+        {
+          "day": 3,
+          "start": "0900",
+          "end": "1800"
+        },
+        {
+          "day": 4,
+          "start": "0900",
+          "end": "1800"
+        }
+      ]
+    },
+    {
+      "name": "Cool Cats' Cafe",
+      "coordinates": {
+        "latitude": 51.478074540845,
+        "longitude": -0.0838174912628347
+      },
+      "id": "cool-cats-cafe-london-2",
+      "hours": [
+        {
+          "day": 1,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1700",
+          "end": "0100"
+        },
+        {
+          "day": 5,
+          "start": "0900",
+          "end": "0100"
+        },
+        {
+          "day": 6,
+          "start": "0900",
+          "end": "1600"
+        }
+      ]
+    },
+    {
+      "name": "White Post",
+      "coordinates": {
+        "latitude": 51.5417586663375,
+        "longitude": -0.0225310173850923
+      },
+      "id": "white-post-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0800",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "0800",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "0800",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "0800",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "0800",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "1000",
+          "end": "0100"
+        },
+        {
+          "day": 6,
+          "start": "1000",
+          "end": "2230"
+        }
+      ]
+    },
+    {
+      "name": "Cart & Horses",
+      "coordinates": {
+        "latitude": 51.5458798282975,
+        "longitude": 0.00434505520388484
+      },
+      "id": "cart-and-horses-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0200"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Albany Centre & Theatre",
+      "coordinates": {
+        "latitude": 51.4775891,
+        "longitude": -0.0281707
+      },
+      "id": "albany-centre-and-theatre-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0900",
+          "end": "1800"
+        },
+        {
+          "day": 1,
+          "start": "0900",
+          "end": "1800"
+        },
+        {
+          "day": 2,
+          "start": "0900",
+          "end": "1800"
+        },
+        {
+          "day": 3,
+          "start": "0900",
+          "end": "1800"
+        },
+        {
+          "day": 4,
+          "start": "0900",
+          "end": "1800"
+        },
+        {
+          "day": 5,
+          "start": "0900",
+          "end": "1500"
+        }
+      ]
+    },
+    {
+      "name": "Hoxton White Horse",
+      "coordinates": {
+        "latitude": 51.5311203,
+        "longitude": -0.0803549
+      },
+      "id": "hoxton-white-horse-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1600",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1600",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1600",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1600",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "0100"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0100"
+        },
+        {
+          "day": 6,
+          "start": "1600",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "The Sound Lounge",
+      "coordinates": {
+        "latitude": 51.420185960374,
+        "longitude": -0.204504355788231
+      },
+      "id": "the-sound-lounge-london-2",
+      "hours": [
+        {
+          "day": 1,
+          "start": "1100",
+          "end": "1700"
+        },
+        {
+          "day": 2,
+          "start": "1100",
+          "end": "1700"
+        },
+        {
+          "day": 3,
+          "start": "1100",
+          "end": "1700"
+        },
+        {
+          "day": 4,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 5,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 6,
+          "start": "1100",
+          "end": "1800"
+        }
+      ]
+    },
+    {
+      "name": "Cyprus Meze Bar & Restaurant",
+      "coordinates": {
+        "latitude": 51.57267,
+        "longitude": -0.017344
+      },
+      "id": "cyprus-meze-bar-and-restaurant-london",
+      "hours": [
+        {
+          "day": 3,
+          "start": "1900",
+          "end": "0100"
+        },
+        {
+          "day": 4,
+          "start": "1900",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1900",
+          "end": "0200"
+        },
+        {
+          "day": 6,
+          "start": "1900",
+          "end": "0100"
+        }
+      ]
+    },
+    {
+      "name": "Great Suffolk Street Warehouse",
+      "coordinates": {
+        "latitude": 51.5043536,
+        "longitude": -0.1013273
+      },
+      "id": "great-suffolk-street-warehouse-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 5,
+          "start": "0700",
+          "end": "2300"
+        },
+        {
+          "day": 6,
+          "start": "0700",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "The Den",
+      "coordinates": {
+        "latitude": 51.5168304443359,
+        "longitude": -0.125476002693176
+      },
+      "id": "the-den-london",
+      "hours": [
+        {
+          "day": 4,
+          "start": "2200",
+          "end": "0600"
+        },
+        {
+          "day": 5,
+          "start": "2200",
+          "end": "0700"
+        }
+      ]
+    },
+    {
+      "name": "Studio 88",
+      "coordinates": {
+        "latitude": 51.5098992197415,
+        "longitude": -0.13111616015144
+      },
+      "id": "studio-88-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1700",
+          "end": "0100"
+        },
+        {
+          "day": 1,
+          "start": "1700",
+          "end": "0100"
+        },
+        {
+          "day": 2,
+          "start": "1700",
+          "end": "0200"
+        },
+        {
+          "day": 3,
+          "start": "1700",
+          "end": "0300"
+        },
+        {
+          "day": 4,
+          "start": "1600",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "1600",
+          "end": "0300"
+        }
+      ]
+    },
+    {
+      "name": "Dirty Water Club",
+      "coordinates": {
+        "latitude": 51.558131,
+        "longitude": -0.138248
+      },
+      "id": "dirty-water-club-london-2",
+      "hours": [
+        {
+          "day": 4,
+          "start": "2030",
+          "end": "0300"
+        }
+      ]
+    },
+    {
+      "name": "Portobello Lounge",
+      "coordinates": {
+        "latitude": 51.5178604125977,
+        "longitude": -0.206798002123833
+      },
+      "id": "portobello-lounge-london",
+      "hours": [
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "1000",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "1000",
+          "end": "0000"
+        },
+        {
+          "day": 6,
+          "start": "1000",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Hatchetts",
+      "coordinates": {
+        "latitude": 51.5057854,
+        "longitude": -0.1458192
+      },
+      "id": "hatchetts-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "The Distillers Pub",
+      "coordinates": {
+        "latitude": 51.518957102637,
+        "longitude": -0.10061868979545
+      },
+      "id": "the-distillers-pub-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1000",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1000",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1000",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1000",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "1000",
+          "end": "0100"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0100"
+        }
+      ]
+    },
+    {
+      "name": "Rigatoni London",
+      "coordinates": {
+        "latitude": 51.48302,
+        "longitude": -0.200656
+      },
+      "id": "rigatoni-london-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1100",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "1100",
+          "end": "0000"
+        },
+        {
+          "day": 6,
+          "start": "1100",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "Arch1",
+      "coordinates": {
+        "latitude": 51.5222066460632,
+        "longitude": 0.00461330209964217
+      },
+      "id": "arch1-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1900",
+          "end": "2330"
+        },
+        {
+          "day": 1,
+          "start": "1900",
+          "end": "2330"
+        },
+        {
+          "day": 2,
+          "start": "1900",
+          "end": "2330"
+        },
+        {
+          "day": 3,
+          "start": "1730",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "1900",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1900",
+          "end": "0200"
+        },
+        {
+          "day": 6,
+          "start": "1900",
+          "end": "0200"
+        }
+      ]
+    },
+    {
+      "name": "Off The Cuff",
+      "coordinates": {
+        "latitude": 51.4529841997153,
+        "longitude": -0.102123707615078
+      },
+      "id": "off-the-cuff-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1600",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1600",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1600",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1600",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "1600",
+          "end": "0100"
+        },
+        {
+          "day": 5,
+          "start": "1600",
+          "end": "0100"
+        },
+        {
+          "day": 6,
+          "start": "1100",
+          "end": "2330"
+        }
+      ]
+    },
+    {
+      "name": "Luna Lounge",
+      "coordinates": {
+        "latitude": 51.5683582,
+        "longitude": 0.0090034
+      },
+      "id": "luna-lounge-london",
+      "hours": [
+        {
+          "day": 1,
+          "start": "1630",
+          "end": "0100"
+        },
+        {
+          "day": 2,
+          "start": "1630",
+          "end": "0100"
+        },
+        {
+          "day": 3,
+          "start": "1630",
+          "end": "0100"
+        },
+        {
+          "day": 4,
+          "start": "1630",
+          "end": "0100"
+        },
+        {
+          "day": 5,
+          "start": "1630",
+          "end": "0100"
+        },
+        {
+          "day": 6,
+          "start": "1630",
+          "end": "0100"
+        }
+      ]
+    },
+    {
+      "name": "Farmopolis",
+      "coordinates": {
+        "latitude": 51.4981522584165,
+        "longitude": 0.012899816518015
+      },
+      "id": "farmopolis-london-2",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 1,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 2,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 3,
+          "start": "1000",
+          "end": "2200"
+        },
+        {
+          "day": 4,
+          "start": "1000",
+          "end": "2200"
+        },
+        {
+          "day": 5,
+          "start": "1000",
+          "end": "2200"
+        },
+        {
+          "day": 6,
+          "start": "1000",
+          "end": "2200"
+        }
+      ]
+    },
+    {
+      "name": "Mother Live",
+      "coordinates": {
+        "latitude": 51.527216016492,
+        "longitude": -0.080360216081048
+      },
+      "id": "mother-live-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1900",
+          "end": "0200"
+        },
+        {
+          "day": 1,
+          "start": "1900",
+          "end": "0200"
+        },
+        {
+          "day": 2,
+          "start": "1900",
+          "end": "0200"
+        },
+        {
+          "day": 3,
+          "start": "1900",
+          "end": "0200"
+        },
+        {
+          "day": 4,
+          "start": "1900",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1900",
+          "end": "0200"
+        },
+        {
+          "day": 6,
+          "start": "1900",
+          "end": "0200"
+        }
+      ]
+    },
+    {
+      "name": "Old Tom's Bar",
+      "coordinates": {
+        "latitude": 51.51269,
+        "longitude": -0.083405
+      },
+      "id": "old-toms-bar-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1100",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "Party Pianos - The UK Duelling Pianos Show",
+      "coordinates": {
+        "latitude": 51.51665,
+        "longitude": -0.15747
+      },
+      "id": "party-pianos-the-uk-duelling-pianos-show-chertsey",
+      "hours": [
+        {
+          "day": 2,
+          "start": "1800",
+          "end": "2100"
+        }
+      ]
+    },
+    {
+      "name": "O2 Forum",
+      "coordinates": {
+        "latitude": 51.5520286,
+        "longitude": -0.1419179
+      },
+      "id": "o2-forum-queensbury",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0000",
+          "end": "1200"
+        },
+        {
+          "day": 0,
+          "start": "1800",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "0000",
+          "end": "1200"
+        },
+        {
+          "day": 1,
+          "start": "1800",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "0000",
+          "end": "1200"
+        },
+        {
+          "day": 2,
+          "start": "1800",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "0000",
+          "end": "1200"
+        },
+        {
+          "day": 3,
+          "start": "1800",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "0000",
+          "end": "1200"
+        },
+        {
+          "day": 4,
+          "start": "1800",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1800",
+          "end": "0200"
+        },
+        {
+          "day": 6,
+          "start": "1800",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Tara Theatre",
+      "coordinates": {
+        "latitude": 51.44179,
+        "longitude": -0.187878
+      },
+      "id": "tara-theatre-earlsfield",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 1,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 2,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 3,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 4,
+          "start": "1000",
+          "end": "1800"
+        }
+      ]
+    },
+    {
+      "name": "The Great Northern Railway Tavern",
+      "coordinates": {
+        "latitude": 51.587984,
+        "longitude": -0.116131
+      },
+      "id": "the-great-northern-railway-tavern-hornsey",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1100",
+          "end": "0100"
+        },
+        {
+          "day": 5,
+          "start": "1100",
+          "end": "0100"
+        },
+        {
+          "day": 6,
+          "start": "1100",
+          "end": "2230"
+        }
+      ]
+    },
+    {
+      "name": "Ashtar Bar & Restaurant",
+      "coordinates": {
+        "latitude": 51.4879248387481,
+        "longitude": -0.12311312698364
+      },
+      "id": "ashtar-bar-and-restaurant-london-2",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "2330"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "2330"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "2330"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "0530"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "0530"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0530"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "0530"
+        }
+      ]
+    },
+    {
+      "name": "Eaton Square Bar",
+      "coordinates": {
+        "latitude": 51.498272,
+        "longitude": -0.148209
+      },
+      "id": "eaton-square-bar-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "1500",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Source Below",
+      "coordinates": {
+        "latitude": 51.5108226,
+        "longitude": -0.1370668
+      },
+      "id": "source-below-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1700",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "1700",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "1700",
+          "end": "0000"
+        },
+        {
+          "day": 6,
+          "start": "1700",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "The Junction",
+      "coordinates": {
+        "latitude": 51.467019,
+        "longitude": -0.09963
+      },
+      "id": "the-junction-london-4",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1600",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1600",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1600",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1600",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1600",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "1000",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Bonafide Studio",
+      "coordinates": {
+        "latitude": 51.58915,
+        "longitude": -0.141878
+      },
+      "id": "bonafide-studio-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0800",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "0800",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "0800",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "0800",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "0800",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "0800",
+          "end": "0000"
+        },
+        {
+          "day": 6,
+          "start": "0800",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Dee Dee's",
+      "coordinates": {
+        "latitude": 51.456778,
+        "longitude": -0.096328
+      },
+      "id": "dee-dees-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "2330"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "2330"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "2330"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "2330"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "2330"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "2330"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "Rise46",
+      "coordinates": {
+        "latitude": 51.4610483,
+        "longitude": -0.1645599
+      },
+      "id": "rise46-london",
+      "hours": [
+        {
+          "day": 1,
+          "start": "1800",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1800",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1800",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "1800",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1800",
+          "end": "0200"
+        }
+      ]
+    },
+    {
+      "name": "Moors Bar",
+      "coordinates": {
+        "latitude": 51.5812721252441,
+        "longitude": -0.12610200047493
+      },
+      "id": "moors-bar-london",
+      "hours": [
+        {
+          "day": 3,
+          "start": "2000",
+          "end": "0200"
+        },
+        {
+          "day": 4,
+          "start": "2200",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "2200",
+          "end": "0300"
+        }
+      ]
+    },
+    {
+      "name": "Styx",
+      "coordinates": {
+        "latitude": 51.590199,
+        "longitude": -0.06116
+      },
+      "id": "styx-tottenham",
+      "hours": [
+        {
+          "day": 3,
+          "start": "1800",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1800",
+          "end": "2300"
+        },
+        {
+          "day": 5,
+          "start": "1800",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "Thomas A Becket",
+      "coordinates": {
+        "latitude": 51.488422,
+        "longitude": -0.077566
+      },
+      "id": "thomas-a-becket-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "0330"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "0330"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "0330"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "0330"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "0530"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0530"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Hen Party London",
+      "coordinates": {
+        "latitude": 51.5494834,
+        "longitude": -0.2320957
+      },
+      "id": "hen-party-london-london-2",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0900",
+          "end": "0700"
+        },
+        {
+          "day": 1,
+          "start": "0900",
+          "end": "0700"
+        },
+        {
+          "day": 2,
+          "start": "0900",
+          "end": "0700"
+        },
+        {
+          "day": 3,
+          "start": "0900",
+          "end": "0700"
+        },
+        {
+          "day": 4,
+          "start": "0900",
+          "end": "0700"
+        },
+        {
+          "day": 5,
+          "start": "0900",
+          "end": "0700"
+        }
+      ]
+    },
+    {
+      "name": "Resident Studios",
+      "coordinates": {
+        "latitude": 51.5503,
+        "longitude": -0.232055
+      },
+      "id": "resident-studios-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1000",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1000",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1000",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1000",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1000",
+          "end": "2300"
+        },
+        {
+          "day": 5,
+          "start": "1000",
+          "end": "2300"
+        },
+        {
+          "day": 6,
+          "start": "1000",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "jam session",
+      "coordinates": {
+        "latitude": 51.4758263,
+        "longitude": -0.037135
+      },
+      "id": "jam-session-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1100",
+          "end": "0200"
+        },
+        {
+          "day": 1,
+          "start": "1100",
+          "end": "0200"
+        },
+        {
+          "day": 2,
+          "start": "1100",
+          "end": "0200"
+        },
+        {
+          "day": 3,
+          "start": "1100",
+          "end": "0200"
+        },
+        {
+          "day": 4,
+          "start": "1100",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1100",
+          "end": "0200"
+        }
+      ]
+    },
+    {
+      "name": "Euphoriom Nightclub & Bar",
+      "coordinates": {
+        "latitude": 51.5064010620117,
+        "longitude": -0.264541000127792
+      },
+      "id": "euphoriom-nightclub-and-bar-london-2",
+      "hours": [
+        {
+          "day": 0,
+          "start": "2100",
+          "end": "0230"
+        },
+        {
+          "day": 1,
+          "start": "2100",
+          "end": "0230"
+        },
+        {
+          "day": 2,
+          "start": "2100",
+          "end": "0230"
+        },
+        {
+          "day": 3,
+          "start": "2100",
+          "end": "0230"
+        },
+        {
+          "day": 4,
+          "start": "2230",
+          "end": "0330"
+        },
+        {
+          "day": 5,
+          "start": "2230",
+          "end": "0330"
+        },
+        {
+          "day": 6,
+          "start": "2100",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "A2 Delicious Restaurant",
+      "coordinates": {
+        "latitude": 51.4479828,
+        "longitude": -0.017606
+      },
+      "id": "a2-delicious-restaurant-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "0300"
+        },
+        {
+          "day": 6,
+          "start": "1700",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Mill Hill Music Complex",
+      "coordinates": {
+        "latitude": 51.6099858,
+        "longitude": -0.2448242
+      },
+      "id": "mill-hill-music-complex-london-3",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1100",
+          "end": "2300"
+        },
+        {
+          "day": 5,
+          "start": "1100",
+          "end": "2000"
+        },
+        {
+          "day": 6,
+          "start": "1100",
+          "end": "2300"
+        }
+      ]
+    }
+  ],
+"pubs": [
+    {
+      "name": "Roundhouse",
+      "coordinates": {
+        "latitude": 51.543409,
+        "longitude": -0.150961
+      },
+      "id": "roundhouse-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0930",
+          "end": "1700"
+        },
+        {
+          "day": 1,
+          "start": "0930",
+          "end": "2100"
+        },
+        {
+          "day": 2,
+          "start": "0930",
+          "end": "2100"
+        },
+        {
+          "day": 3,
+          "start": "0930",
+          "end": "2100"
+        },
+        {
+          "day": 4,
+          "start": "0930",
+          "end": "2100"
+        },
+        {
+          "day": 5,
+          "start": "0930",
+          "end": "1700"
+        },
+        {
+          "day": 6,
+          "start": "0930",
+          "end": "1700"
+        }
+      ]
+    },
+    {
+      "name": "Royal Albert Hall",
+      "coordinates": {
+        "latitude": 51.5009964375442,
+        "longitude": -0.177414610229825
+      },
+      "id": "royal-albert-hall-kensington",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0900",
+          "end": "2100"
+        },
+        {
+          "day": 1,
+          "start": "0900",
+          "end": "2100"
+        },
+        {
+          "day": 2,
+          "start": "0900",
+          "end": "2100"
+        },
+        {
+          "day": 3,
+          "start": "0900",
+          "end": "2100"
+        },
+        {
+          "day": 4,
+          "start": "0900",
+          "end": "2100"
+        },
+        {
+          "day": 5,
+          "start": "0900",
+          "end": "2100"
+        },
+        {
+          "day": 6,
+          "start": "0900",
+          "end": "2100"
+        }
+      ]
+    },
+    {
+      "name": "Shakespeare's Globe Theatre",
+      "coordinates": {
+        "latitude": 51.5081126650366,
+        "longitude": -0.0971089400017153
+      },
+      "id": "shakespeares-globe-theatre-bankside",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0900",
+          "end": "1700"
+        },
+        {
+          "day": 1,
+          "start": "0900",
+          "end": "1700"
+        },
+        {
+          "day": 2,
+          "start": "0900",
+          "end": "1700"
+        },
+        {
+          "day": 3,
+          "start": "0900",
+          "end": "1700"
+        },
+        {
+          "day": 4,
+          "start": "0900",
+          "end": "1700"
+        },
+        {
+          "day": 5,
+          "start": "0900",
+          "end": "1700"
+        },
+        {
+          "day": 6,
+          "start": "0900",
+          "end": "1700"
+        }
+      ]
+    },
+    {
+      "name": "Union Chapel",
+      "coordinates": {
+        "latitude": 51.54437,
+        "longitude": -0.102769
+      },
+      "id": "union-chapel-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0930",
+          "end": "1800"
+        },
+        {
+          "day": 1,
+          "start": "0930",
+          "end": "1800"
+        },
+        {
+          "day": 2,
+          "start": "0930",
+          "end": "1800"
+        },
+        {
+          "day": 3,
+          "start": "0930",
+          "end": "1800"
+        },
+        {
+          "day": 4,
+          "start": "0930",
+          "end": "1800"
+        }
+      ]
+    },
+    {
+      "name": "KOKO",
+      "coordinates": {
+        "latitude": 51.5346440882812,
+        "longitude": -0.138359069824219
+      },
+      "id": "koko-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1900",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1900",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1900",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1900",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "2200",
+          "end": "0400"
+        },
+        {
+          "day": 5,
+          "start": "2200",
+          "end": "0400"
+        },
+        {
+          "day": 6,
+          "start": "1900",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "Fabric",
+      "coordinates": {
+        "latitude": 51.5196084163624,
+        "longitude": -0.102471799978848
+      },
+      "id": "fabric-london-2",
+      "hours": [
+        {
+          "day": 4,
+          "start": "1000",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "1100",
+          "end": "0300"
+        },
+        {
+          "day": 6,
+          "start": "1100",
+          "end": "0300"
+        }
+      ]
+    },
+    {
+      "name": "St Martin in the Fields",
+      "coordinates": {
+        "latitude": 51.508793,
+        "longitude": -0.126756
+      },
+      "id": "st-martin-in-the-fields-london-4",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0800",
+          "end": "2000"
+        },
+        {
+          "day": 1,
+          "start": "0800",
+          "end": "2000"
+        },
+        {
+          "day": 2,
+          "start": "0800",
+          "end": "2230"
+        },
+        {
+          "day": 3,
+          "start": "0800",
+          "end": "2100"
+        },
+        {
+          "day": 4,
+          "start": "0800",
+          "end": "2100"
+        },
+        {
+          "day": 5,
+          "start": "0800",
+          "end": "2100"
+        },
+        {
+          "day": 6,
+          "start": "1100",
+          "end": "1800"
+        }
+      ]
+    },
+    {
+      "name": "The Troubadour",
+      "coordinates": {
+        "latitude": 51.488822437999,
+        "longitude": -0.19190476580433
+      },
+      "id": "the-troubadour-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0830",
+          "end": "1400"
+        },
+        {
+          "day": 1,
+          "start": "0830",
+          "end": "1400"
+        },
+        {
+          "day": 2,
+          "start": "0830",
+          "end": "1400"
+        },
+        {
+          "day": 3,
+          "start": "0830",
+          "end": "1400"
+        },
+        {
+          "day": 4,
+          "start": "0830",
+          "end": "1400"
+        },
+        {
+          "day": 5,
+          "start": "0830",
+          "end": "1400"
+        },
+        {
+          "day": 6,
+          "start": "0830",
+          "end": "1400"
+        }
+      ]
+    },
+    {
+      "name": "Alexandra Palace",
+      "coordinates": {
+        "latitude": 51.5939065176711,
+        "longitude": -0.130093499999995
+      },
+      "id": "alexandra-palace-london-3",
+      "hours": [
+        {
+          "day": 6,
+          "start": "1000",
+          "end": "1500"
+        }
+      ]
+    },
+    {
+      "name": "Gielgud Theatre",
+      "coordinates": {
+        "latitude": 51.512020111084,
+        "longitude": -0.13323999941349
+      },
+      "id": "gielgud-theatre-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1000",
+          "end": "2000"
+        },
+        {
+          "day": 1,
+          "start": "1000",
+          "end": "2000"
+        },
+        {
+          "day": 2,
+          "start": "1000",
+          "end": "2000"
+        },
+        {
+          "day": 3,
+          "start": "1000",
+          "end": "2000"
+        },
+        {
+          "day": 4,
+          "start": "1000",
+          "end": "2000"
+        },
+        {
+          "day": 5,
+          "start": "1000",
+          "end": "2000"
+        }
+      ]
+    },
+    {
+      "name": "Scala",
+      "coordinates": {
+        "latitude": 51.5307732176212,
+        "longitude": -0.120840203374542
+      },
+      "id": "scala-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 1,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 2,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 3,
+          "start": "1000",
+          "end": "1800"
+        },
+        {
+          "day": 4,
+          "start": "1000",
+          "end": "1800"
+        }
+      ]
+    },
+    {
+      "name": "Big Easy",
+      "coordinates": {
+        "latitude": 51.4852959,
+        "longitude": -0.1744201
+      },
+      "id": "big-easy-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1200",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1200",
+          "end": "2330"
+        },
+        {
+          "day": 5,
+          "start": "1200",
+          "end": "2330"
+        },
+        {
+          "day": 6,
+          "start": "1200",
+          "end": "2230"
+        }
+      ]
+    },
+    {
+      "name": "The Crobar",
+      "coordinates": {
+        "latitude": 51.514867642482,
+        "longitude": -0.13033772564174
+      },
+      "id": "the-crobar-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1600",
+          "end": "0300"
+        },
+        {
+          "day": 1,
+          "start": "1600",
+          "end": "0300"
+        },
+        {
+          "day": 2,
+          "start": "1600",
+          "end": "0300"
+        },
+        {
+          "day": 3,
+          "start": "1600",
+          "end": "0300"
+        },
+        {
+          "day": 4,
+          "start": "1600",
+          "end": "0300"
+        },
+        {
+          "day": 5,
+          "start": "1600",
+          "end": "0300"
+        }
+      ]
+    },
+    {
+      "name": "Hippodrome Casino",
+      "coordinates": {
+        "latitude": 51.5114481358807,
+        "longitude": -0.12877836869184
+      },
+      "id": "hippodrome-casino-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0000",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "0000",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "0000",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "0000",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "0000",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "0000",
+          "end": "0000"
+        },
+        {
+          "day": 6,
+          "start": "0000",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Wilton's Music Hall",
+      "coordinates": {
+        "latitude": 51.5105854325666,
+        "longitude": -0.0667762756347656
+      },
+      "id": "wiltons-music-hall-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 1,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 2,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 3,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 4,
+          "start": "1700",
+          "end": "2300"
+        },
+        {
+          "day": 5,
+          "start": "1700",
+          "end": "2300"
+        }
+      ]
+    },
+    {
+      "name": "Proud Camden",
+      "coordinates": {
+        "latitude": 51.54286,
+        "longitude": -0.14874
+      },
+      "id": "proud-camden-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1100",
+          "end": "0130"
+        },
+        {
+          "day": 1,
+          "start": "1100",
+          "end": "0130"
+        },
+        {
+          "day": 2,
+          "start": "1100",
+          "end": "0130"
+        },
+        {
+          "day": 3,
+          "start": "1100",
+          "end": "0230"
+        },
+        {
+          "day": 4,
+          "start": "1100",
+          "end": "0230"
+        },
+        {
+          "day": 5,
+          "start": "1100",
+          "end": "0230"
+        },
+        {
+          "day": 6,
+          "start": "1100",
+          "end": "0030"
+        }
+      ]
+    },
+    {
+      "name": "Palace Theatre",
+      "coordinates": {
+        "latitude": 51.5132393753197,
+        "longitude": -0.129518016286871
+      },
+      "id": "palace-theatre-london-2",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1900",
+          "end": "2130"
+        },
+        {
+          "day": 1,
+          "start": "1900",
+          "end": "2130"
+        },
+        {
+          "day": 2,
+          "start": "1500",
+          "end": "1730"
+        },
+        {
+          "day": 2,
+          "start": "1930",
+          "end": "2200"
+        },
+        {
+          "day": 3,
+          "start": "1930",
+          "end": "2200"
+        },
+        {
+          "day": 4,
+          "start": "1930",
+          "end": "2200"
+        },
+        {
+          "day": 5,
+          "start": "1500",
+          "end": "1730"
+        },
+        {
+          "day": 5,
+          "start": "1930",
+          "end": "2200"
+        }
+      ]
+    },
+    {
+      "name": "Riverside Studios",
+      "coordinates": {
+        "latitude": 51.4885595820839,
+        "longitude": -0.227553046892955
+      },
+      "id": "riverside-studios-london-2",
+      "hours": [
+        {
+          "day": 0,
+          "start": "0830",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "0830",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "0830",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "0830",
+          "end": "0000"
+        },
+        {
+          "day": 4,
+          "start": "0830",
+          "end": "0000"
+        },
+        {
+          "day": 5,
+          "start": "1100",
+          "end": "0000"
+        },
+        {
+          "day": 6,
+          "start": "1100",
+          "end": "0000"
+        }
+      ]
+    },
+    {
+      "name": "The Queen of Hoxton",
+      "coordinates": {
+        "latitude": 51.5222692197122,
+        "longitude": -0.0810885429382324
+      },
+      "id": "the-queen-of-hoxton-london",
+      "hours": [
+        {
+          "day": 0,
+          "start": "1600",
+          "end": "0000"
+        },
+        {
+          "day": 1,
+          "start": "1600",
+          "end": "0000"
+        },
+        {
+          "day": 2,
+          "start": "1600",
+          "end": "0000"
+        },
+        {
+          "day": 3,
+          "start": "1600",
+          "end": "0200"
+        },
+        {
+          "day": 4,
+          "start": "1600",
+          "end": "0200"
+        },
+        {
+          "day": 5,
+          "start": "1600",
+          "end": "0200"
+        }
+      ]
+    }
+    ]
+}
