@@ -4,7 +4,8 @@ import yelp_api
 yp = yelp_api
 
 #%%
-result = yp.search('london', 2, 0)
+result = yp.search('london', 'musicvenues', 1, 0)
+result['total']
 #print(yp.business('royal-albert-hall-kensington'))
 #%%
 
@@ -57,7 +58,7 @@ for index, keys in enumerate(music_venues):
 with open('music_venues.json', 'w') as f:
     json.dump(new_file, f, indent=2)
     
-
+new_file[0]
 #%%
 # FIND OPENING HOURS FOR VENUES
 # warning this will query the Yelp API once for each business in your output from above
