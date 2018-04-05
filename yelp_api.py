@@ -8,8 +8,8 @@ import requests
 #%%
 # DEFINITIONS
 
-API_KEY = 'insert_key_here'
-Client_ID = 'insert_id_here'
+API_KEY = 'insert-own-here'
+Client_ID = 'insert-own-here'
 
 API_HOST = 'https://api.yelp.com'
 SEARCH_PATH = '/v3/businesses/search'
@@ -66,7 +66,7 @@ def business(venue):
     return response.json()
 
 #  business search
-def search(location, limit, offset):
+def search(location, category, limit, offset):
     """Query the Search API by a search term and location.
     Args:
         term (str): The search term passed to the API.
@@ -77,8 +77,10 @@ def search(location, limit, offset):
 
     url_params = {
         'location': location.replace(' ', '+'),
-        'categories': 'musicvenues',
+        'categories': category,
         'limit': limit,
         'offset': offset
     }
     return request(API_HOST, SEARCH_PATH, API_KEY, url_params=url_params)
+
+
