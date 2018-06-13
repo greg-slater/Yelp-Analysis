@@ -8,8 +8,9 @@ import requests
 #%%
 # DEFINITIONS
 
-API_KEY = 'insert-own-here'
-Client_ID = 'insert-own-here'
+# Insert own key and client values below
+API_KEY = '#####'
+Client_ID = '#####'
 
 API_HOST = 'https://api.yelp.com'
 SEARCH_PATH = '/v3/businesses/search'
@@ -82,5 +83,10 @@ def search(location, category, limit, offset):
         'offset': offset
     }
     return request(API_HOST, SEARCH_PATH, API_KEY, url_params=url_params)
+
+
+
+
+
 
 
